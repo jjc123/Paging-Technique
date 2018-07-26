@@ -1,3 +1,3 @@
 # Paging-Technique
 基于JavaWeb，Mysql的分页技术
-![界面](https://github.com/jjc123/C-/blob/master/image/image.png?raw=true)
+![效果图](https://github.com/jjc123/Paging-Technique/blob/master/image/FL(%7DA8HRPS3G7X5BFL%40SFNQ.png)
